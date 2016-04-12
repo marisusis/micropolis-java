@@ -135,7 +135,7 @@ public class MapGenerator
 
 	private void makeNakedIsland()
 	{
-		final int ISLAND_RADIUS = 18;
+		final int ISLAND_RADIUS = 100;
 		final int WORLD_X = getWidth();
 		final int WORLD_Y = getHeight();
 
